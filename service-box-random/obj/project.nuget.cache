@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xtv9yIlxe2tcYWoaAv7F/rpoFsiiUy4YqUMG0GDCuBHcdl1g6VAa0tS+NV7NQv2c6Pky6XT8dqJV40Ynsnu4Ew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chrom\\RiderProjects\\baranov\\baranov\\baranov.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chrom\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
